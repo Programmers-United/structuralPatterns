@@ -1,0 +1,1 @@
+Exemplo prático onde o Proxy controla o acesso a um objeto "Banco", que simula a verificação de permissões antes de permitir que o usuário acesse a conta bancária.
