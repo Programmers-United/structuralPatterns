@@ -1,5 +1,5 @@
-#ifndef LEAF_H
-#define LEAF_H
+#ifndef LEAF_HPP
+#define LEAF_HPP
 
 #include "Component.hpp"
 #include <string>
