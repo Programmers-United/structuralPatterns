@@ -1,0 +1,3 @@
+C:/Users/Silva/Desktop/structuralPatterns/Adapter/cmake-build-debug/CMakeFiles/structuralPatterns.dir
+C:/Users/Silva/Desktop/structuralPatterns/Adapter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Silva/Desktop/structuralPatterns/Adapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

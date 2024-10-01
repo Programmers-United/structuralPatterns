@@ -1,0 +1,11 @@
+# ninja log v6
+7	956	7482968129917529	CMakeFiles/Facade.dir/main.cpp.obj	8bb087d0f2a925eb
+1206	1832	7482968141903150	Facade.exe	6327cabe4ed1206c
+65	1206	7482968130488115	CMakeFiles/Facade.dir/AutomatedSystem/AutomatedSystem.cpp.obj	8076b642f9482e49
+8	1139	7482973746092839	CMakeFiles/Facade.dir/main.cpp.obj	8bb087d0f2a925eb
+92	1425	7482973746932924	CMakeFiles/Facade.dir/AutomatedSystem/AutomatedSystem.cpp.obj	8076b642f9482e49
+1426	2120	7482973760263789	Facade.exe	6327cabe4ed1206c
+24	1061	7482978547337241	CMakeFiles/Facade.dir/main.cpp.obj	8bb087d0f2a925eb
+91	1351	7482978548007663	CMakeFiles/Facade.dir/AutomatedSystem/AutomatedSystem.cpp.obj	8076b642f9482e49
+1352	2033	7482978560608214	Facade.exe	6327cabe4ed1206c
+9	890	7482979448731478	CMakeFiles/Facade.dir/AutomatedSystem/AutomatedSystem.cpp.obj	8076b642f9482e49
